@@ -1,0 +1,36 @@
+          National University of Computer & Emerging Sciences FAST Karachi Campus					
+                   Second Mid-Term Examinations Schedule Spring 2019					
+                        Electrical Engineering Department					
+
+Day / Date	Time	
+
+Mon
+1-4-2019   09:00-10:00	MT203 DE     EE431 PSA
+	   11:00-12:00				
+	   01:00-02:00	EE223 SaS    EE302 DSP	
+	   02:30-03:30				
+Tues
+2-4-2019   09:00-10:00	EE115 LCA    EE228 ENA     EE221 EMS		
+	   11:00-12:00	EE433 PG     EE324 PE	
+	   01:00-02:00				
+	   02:30-03:30	EE426 IPC
+Wed
+3-4-2019   09:00-10:00	CS214 PF     EE116 ITC     CS210 DS		
+	   11:00-12:00				
+	   01:00-02:00	EL304 FCS	
+	   02:30-03:30	EE319 PRP    SS145 EE
+Thursday
+4-4-2019   09:00-10:00	MT104 LA			
+	   11:00-12:00	EE227 DLD    EE430 PDU
+	   01:00-02:00	MG222 EEc	
+	   02:30-03:30			
+Friday
+5-4-2019  09:00-10:00	SS123 CS     EE220 I&M
+	  11:00-12:00	SS111 IRS			
+	  01:00-2:00    Namaz Break			
+	  02:3003:30	MT306 MC		
+ 
+
+"Ms. Nida Kanwal
+Academic officer
+EMS Department "	

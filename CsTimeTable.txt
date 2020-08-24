@@ -1,0 +1,38 @@
+           National University of Computer & Emerging Sciences - FAST Karachi Campus					
+                 Schedule for the Mid-Term - 2  Examination Spring 2019					
+                              Computer Science Department 					
+Day/Date           Time	
+
+Mon     
+1-04-2019  09:00-10:00   EE117-AP      CS302-DA 	
+	   11:00-12:00	 CS211-DS      CS301-TA     CS408-DW      CS481 DS (2 hrs IT Labs ) 
+	   01:00-02:00	 CS217-OOP     CS118-PF     CS103-PF      CS307-CN	
+	   02:30-03:30 	 CS423-IPT     CS406 WP 
+						
+Tues   
+2-04-2019  09:00-10:00   MT104-LA      CS446-ISS 
+	   11:00-12:00   EE227-DLD     CS303-SE     CS309-OOAD	
+	   01:00-02:00   CS201-DA      CS205-OS     CS482-IBCC    CS450 ISPM
+	   02:30-3:30	 CS203-DS	
+						
+Wed  	
+3-04-2019  09:00-10:00   EE213-COAL    CS481-DSc     CS317-IR      CS418-CG    CS441 DDR
+	   11:00-12:00   MT224-DE      MT119-Cal     CS495-FCV 	 
+	   01:00-02:00   MT206-PROB    EE204-CA		  	
+						
+Thurs  	
+4-02-2019  09:00-10:00	 MT207-NM      MT303-OP      CS457-IIT
+	   11:00-12:00   SS152-CPS     CS401-AI	
+	   01:00-02:00 	 MT115-CaL-II  CS422-HCI
+						
+Friday     	
+5-04-2019  09:00-10:00  SS118-Psy      SS135 ME      SS103-AL      CS449 PIT	   
+           11:00-12:00  SS113-PSt      SS108-TBW 	
+	   02:30-3:30	MG407-IHM       
+						
+Saturday                         City Campus 	
+6-04-2019  09:00-10:00  CS497-ST       CS494-IAC	
+           10:30-11:30  CS402-CC
+						
+"Kamran Nisar
+---Assistant Manager Academics CS Department "	
